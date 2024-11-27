@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "lizwebsite",
+    "title": "Elizabeth D’Alessio",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Communications and Special Projects Coordinator YES Manitoba\n\nknitr::include_graphics(\"photo_liz.jpg\")"
   },
   {
     "objectID": "about.html",
@@ -19,5 +19,19 @@
     "title": "Curriculum Vitae",
     "section": "",
     "text": "Contact Information\n\n\nEducation\n\n\nCurrent Position(s)\n\n\nPrevious Position (s)"
+  },
+  {
+    "objectID": "index.html#elizabeth-dalessio",
+    "href": "index.html#elizabeth-dalessio",
+    "title": "Elizabeth D’Alessio",
+    "section": "",
+    "text": "Communications and Special Projects Coordinator YES Manitoba\n\nknitr::include_graphics(\"photo_liz.jpg\")"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Elizabeth D’Alessio",
+    "section": "About",
+    "text": "About\nHello, I’m Liz. I’m a freelance photographer, communications coordinator, and economics student living in Winnipeg, Manitoba. Artistic expression, information deep-dives, and figuring out what makes things tick are what light me up."
   }
 ]

@@ -1,0 +1,13 @@
+---
+
+title: "blog post title"
+description: "blog post description"
+author: 
+  - name: Elizabeth D'Alessio
+  
+categories: [Quarto, R, Data Analysis]
+
+image: preview_image.png
+
+
+---
