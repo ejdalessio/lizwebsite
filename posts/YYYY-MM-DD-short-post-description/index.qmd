@@ -1,13 +1,14 @@
 ---
-
 title: "blog post title"
 description: "blog post description"
 author: 
   - name: Elizabeth D'Alessio
   
-categories: [Quarto, R, Data Analysis]
+categories: [photos, school, work]
 
-image: preview_image.png
+citation:
+  url: https://ejdalessio.github.io/lizwebsite/YYYY-MM-DD-short-post-description/
 
-
+image: bamberg.JPG
+draft: false
 ---
